@@ -9,7 +9,9 @@ A modern, fully responsive Login and Signup form built with **pure HTML5 and CSS
 
 *(Note: Add a screenshot or GIF of your project here!)*
 
----
+[<img width="471" height="368" alt="image" src="https://github.com/user-attachments/assets/d6544d93-44e0-4ff1-b41a-3f0f9fbe2b51" />| <img width="409" height="376" alt="image" src="https://github.com/user-attachments/assets/ec0d5b00-c609-47cb-9bff-4771a4804763" />
+
+]
 
 ## ✨ Key Features
 
@@ -48,33 +50,27 @@ The most powerful feature of this project is its ability to switch forms without
     display: block;
 }
 
-🛠️ Technologies Used
-HTML5: Semantic markup for structure.
+## 🛠️ Technologies Used
 
-CSS3:
+* **HTML5:** Semantic markup for structure.
+* **CSS3:**
+    * **Flexbox:** For centering the form container perfectly.
+    * **`backdrop-filter`:** To create the glassmorphism effect.
+    * **`transition`:** For smooth hover and focus animations.
+    * **Pseudo-classes (`:checked`, `:focus`):** To control UI states.
+    * **Sibling Selector (`~`):** To power the form switch.
+    * **Media Queries:** For mobile responsiveness.
+* **Font Awesome:** For scalable vector icons.
 
-Flexbox: For centering the form container perfectly.
+---
 
-backdrop-filter: To create the glassmorphism effect.
+## 🚀 How to Use
 
-transition: For smooth hover and focus animations.
-
-Pseudo-classes (:checked, :focus): To control UI states.
-
-Sibling Selector (~): To power the form switch.
-
-Media Queries: For mobile responsiveness.
-
-Font Awesome: For scalable vector icons.
-
-🚀 How to Use
 No setup or dependencies required!
 
-Clone or download this repository:
-
-Bash
-
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-Navigate to the project folder.
-
-Open index.html in your favorite web browser.
+1.  **Clone or download** this repository:
+    ```bash
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    ```
+2.  **Navigate** to the project folder.
+3.  **Open `index.html`** in your favorite web browser.
