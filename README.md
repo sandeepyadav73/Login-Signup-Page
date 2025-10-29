@@ -6,11 +6,7 @@
 
 A modern, fully responsive Login and Signup form built with **pure HTML5 and CSS3**. This project features a stunning glassmorphism effect and a seamless toggle between the two forms **without a single line of JavaScript.**
 
-
-*(Note: Add a screenshot or GIF of your project here!)*
-
-<img width="471" height="368" alt="image" src="https://github.com/user-attachments/assets/d6544d93-44e0-4ff1-b41a-3f0f9fbe2b51" /><img width="409" height="376" alt="image" src="https://github.com/user-attachments/assets/ec0d5b00-c609-47cb-9bff-4771a4804763" />
-
+<img width="471" height="368" alt="image" src="https://github.com/user-attachments/assets/d6544d93-44e0-4ff1-b41a-3f0f9fbe2b51" /><img width="471" height="368" alt="image" src="https://github.com/user-attachments/assets/ec0d5b00-c609-47cb-9bff-4771a4804763" />
 
 
 ## ✨ Key Features
