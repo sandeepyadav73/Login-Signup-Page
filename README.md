@@ -29,23 +29,6 @@ The most powerful feature of this project is its ability to switch forms without
 3.  When a user clicks the label, it toggles the checkbox's `:checked` state.
 4.  CSS rules using the `:checked` pseudo-class and the general sibling selector (`~`) are used to show/hide the correct form container.
 
-**Example CSS Logic:**
-```css
-/* By default, hide the Signup form */
-.signup-container {
-    display: none;
-}
-
-/* When the checkbox is checked, hide Login... */
-#form-switch:checked ~ .login-container {
-    display: none;
-}
-
-/* ...and show Signup */
-#form-switch:checked ~ .signup-container {
-    display: block;
-}
-
 ## 🛠️ Technologies Used
 
 * **HTML5:** Semantic markup for structure.
